@@ -9,7 +9,7 @@ body{
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 nav{
-    background: #fc1a1a;
+    background: #2f33ff;
     height: 80px;
     width: 100%;
 }
@@ -40,7 +40,7 @@ nav ul li a{
 }
 a.active{
     transition: .5s;
-    background: #ff5151;
+    background: #4763f1;
 }
 .checkbtn{
     font-size: 30px;
@@ -88,7 +88,7 @@ a.active{
     }
     a:hover,a.active{
         background: none;
-        color: #f73333;
+        color: #2c26e2;
     }
     #check:checked ~ ul{
         left: 0;
