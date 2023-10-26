@@ -40,7 +40,7 @@ nav ul li a{
     text-transform: uppercase;
 }
 a.active{
-    background: #9fecff;
+    background: #80e6ff;
     transition: .5s;
 }
 .checkbtn{

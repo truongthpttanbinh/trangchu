@@ -40,7 +40,7 @@ nav ul li a{
 }
 a.active{
     transition: .5s;
-    background: #9fecff;
+    background: #80e6ff;
 }
 .checkbtn{
     font-size: 30px;
